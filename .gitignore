@@ -1,0 +1,6 @@
+## Les IDE
+nbproject
+.idea
+## Les dépendances 
+node_modules
+vendor 
